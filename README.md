@@ -1,2 +1,3 @@
 # hello-world
-My test git repository
+
+Hi, wonderful day today. With my coffee and git script.
